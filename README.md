@@ -15,7 +15,7 @@ https://github.com/kangear/uPrinter/releases
 (后续会上传到)
 
 # 硬件连接
-![Screenshot](image/hardware_connect.jpg)
+![Screenshot](image/hardware_connect.png)
 
 # 启动uPrinter
 ## 允许uPrinter访问USB设备
